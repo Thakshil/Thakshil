@@ -1,14 +1,14 @@
-﻿<div align="center">
+<div align="center">
 
 <!-- Animated header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0d1117&height=120&section=header&animation=fadeIn"/>
 
 <h1>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B+I'm+Thakshil;AI+Engineer+in+Progress+%F0%9F%A4%96;Python+%E2%80%A2+LLMs+%E2%80%A2+Agentic+AI;Building+things+that+think." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey+%F0%9F%91%8B+I'm+Eskala+Thakshil;AI+RAT+%F0%9F%90%80;Python+%E2%80%A2+LLMs+%E2%80%A2+Agentic+AI;Building+things+that+think." alt="Typing SVG" />
 </h1>
 
 <p>
-  <strong>CS undergrad @ Mohan Babu University &nbsp;·&nbsp; CGPA 9.63/10</strong><br/>
+  <strong>CS Graduate — Mohan Babu University &nbsp;·&nbsp; CGPA 9.63/10</strong><br/>
   <em>Building AI systems, one agentic pipeline at a time 🚀</em>
 </p>
 
@@ -17,11 +17,11 @@
     <img src="https://img.shields.io/badge/Gmail-takshileskala%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/thakshil-eskala" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Thakshil%20Eskala-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/eskala-thakshil-6a15ab233/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Eskala%20Thakshil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://leetcode.com/u/thakshil_eskala" target="_blank">
+  <a href="https://leetcode.com/u/Thakshil/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-430%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 </p>
@@ -32,7 +32,7 @@
 
 ## 🧠 Who am I?
 
-I'm a final-year CS student focused on **AI engineering** — specifically building at the intersection of **LLMs, agentic systems, and Python backends**.
+I'm a CS graduate focused on **AI engineering** — specifically building at the intersection of **LLMs, agentic systems, and Python backends**.
 
 I don't just study AI. I build with it. My projects are shipped, running, and publicly available.
 
@@ -193,7 +193,7 @@ Cross-platform Android geofencing reminder app with ~95% location accuracy. Impr
 
 ```python
 thakshil = {
-    "status":    "final year CS → AI engineer",
+    "status":    "CS graduate → AI engineer",
     "building":  ["agentic AI pipelines", "LLM-backed applications"],
     "learning":  ["agent frameworks", "RAG systems", "MCP tooling"],
     "grinding":  "430+ LeetCode problems and counting",
@@ -212,11 +212,11 @@ If you're building in AI, working on agentic systems, or just want to talk about
 
 **📧 takshileskala@gmail.com**
 
-<a href="https://www.linkedin.com/in/thakshil-eskala">
+<a href="https://www.linkedin.com/in/eskala-thakshil-6a15ab233/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://leetcode.com/u/thakshil_eskala">
+<a href="https://leetcode.com/u/Thakshil/">
   <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
