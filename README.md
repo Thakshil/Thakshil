@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0d1117&height=120&section=header&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0d1117&height=220&section=header&text=Eskala%20Thakshil&fontSize=52&fontColor=58A6FF&fontAlignY=42&animation=fadeIn&desc=%F0%9F%90%80%20Crazy%20AI%20RAT&descSize=26&descAlignY=68&descColor=c9d1d9"/>
 
 <h1>
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey+%F0%9F%91%8B+I'm+Eskala+Thakshil;AI+RAT+%F0%9F%90%80;Python+%E2%80%A2+LLMs+%E2%80%A2+Agentic+AI;Building+things+that+think." alt="Typing SVG" />
